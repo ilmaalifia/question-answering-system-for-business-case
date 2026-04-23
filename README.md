@@ -29,14 +29,19 @@ This section includes figures, tables, and other supplementary materials that su
 
 ### Figures
 
-**Figure 1:** [Design Flow Diagram. This illustration shows the execution order of the system design.]
+**Fig. 1. Design Flow Diagram** [This illustration shows the execution order of the system design.]
 
-![Figure 1](./img/design_flow.png)
+![Fig. 1.](./img/design_flow.png)
 
 
-**Figure 2:** [Technology Architecture. The **Reverse PDF Scraper** implements _Data Preprocessing_ component. The **QA Business Case Backend** implements the _Question Preprocessing_, _Retriever_, and _Generator_ components.]
+**Fig. 2. Implementation Diagram** [The Reverse PDF Scraper implements _Data Preprocessing_ component. The QA Business Case Backend implements the _Question Preprocessing_, _Retriever_, and _Generator_ components.]
 
-![Figure 1](./img/technology_architecture.png)
+![Fig. 2.](./img/implementation_diagram.png)
+
+
+**Fig. 3. Runtime Example** [The frontend of the system during runtime.]
+
+![Fig. 3.](./img/frontend.png)
 
 ## Related Codebases
 
