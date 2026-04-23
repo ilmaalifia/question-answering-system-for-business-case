@@ -43,6 +43,18 @@ This section includes figures, tables, and other supplementary materials that su
 
 ![Fig. 3.](./img/frontend.png)
 
+**Fig. 4. Extreme Case Observation: Unexpected LLM Summarisation Behaviour**
+
+![Fig. 4.](./img/extreme_case_llm_summ.png)
+
+**Fig. 5. Extreme Case Observation: Unexpected LLM Summarisation Behaviour on Table**
+
+![Fig. 5.](./img/extreme_case_llm_summ_table.png)
+
+**Fig. 6. Extreme Case Observation: Hallucination Prevention**
+
+![Fig. 6.](./img/extreme_case_hallu_prevention.png)
+
 ## Related Codebases
 
 This section links to the implementation codebases and resources associated with this research:
