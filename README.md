@@ -1,4 +1,4 @@
-# Question-Answering System for Business Cases
+# Question-Answering System for Business Case
 
 *Accelerating Business Case Development with Context-Aware AI: A Question Answering System Integrating PDF Corpora and Web Retrieval*
 
@@ -11,7 +11,7 @@
 
 ## Abstract
 
-A business case is a commonly used artefact for justifying project initiation in an organisation. Developing business cases requires extensive knowledge and data acquisition which is facilitated by using search engines and generative AI. While the first usually leads to reliable data, navigating through this data is labour-intensive. Conversely, generative AI delivers answers in seconds, but suffers from unreliable results. To address this trade-off, we introduce the Question-Answering System for Business Cases as a solution supporting business case development. It is based on Retrieval-Augmented Generation and prioritises four key requirements: speed, reliability, up-to-date freshness, and capability of providing options of answer. Specifically, our solution includes two components: (1) a question-answering system and (2) an integrated knowledge base sourced from PDF corpora and web retrieval mechanisms. This system allows users to create and update the Context-Aware PDF Database based on their own input contexts and reference documents. Our empirical reference-free evaluation suggests that our proposed system delivers contextually relevant answers with citations and additional sources in approximately 20 seconds. It also handles question variation and prevents hallucinations effectively.
+A business case is a commonly used artefact for justifying project initiation in an organisation. Developing business cases requires extensive knowledge and data acquisition which is facilitated by using search engines and generative AI. While the first usually leads to reliable data, navigating through this data is labour-intensive. Conversely, generative AI delivers answers in seconds, but suffers from unreliable results. To address this trade-off, we introduce the Question-Answering System for Business Case as a solution supporting business case development. It is based on Retrieval-Augmented Generation and prioritises four key requirements: speed, reliability, up-to-date freshness, and capability of providing options of answer. Specifically, our solution includes two components: (1) a question-answering system and (2) an integrated knowledge base sourced from PDF corpora and web retrieval mechanisms. This system allows users to create and update the Context-Aware PDF Database based on their own input contexts and reference documents. Our empirical reference-free evaluation suggests that our proposed system delivers contextually relevant answers with citations and additional sources in approximately 20 seconds. It also handles question variation and prevents hallucinations effectively.
 
 ## Manuscript Versions
 
