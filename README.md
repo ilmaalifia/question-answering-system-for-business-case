@@ -1,4 +1,6 @@
-# Question Answering System for Business Cases
+# Question-Answering System for Business Cases
+
+*Accelerating Business Case Development with Context-Aware AI: A Question Answering System Integrating PDF Corpora and Web Retrieval*
 
 ## Table of Contents
 
@@ -57,7 +59,8 @@ This section includes figures, tables, and other supplementary materials that su
 
 ## Related Codebases
 
-This section links to the implementation codebases and resources associated with this research:
+This section links to the implementation codebases associated with this research:
+
 - [**Reverse PDF Scraper**](https://github.com/ilmaalifia/reverse-pdf-scraper)
 - [**QA Business Case Backend**](https://github.com/ilmaalifia/qa-business-case-backend)
 
